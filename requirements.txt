@@ -1,0 +1,12 @@
+tensorflow
+matplotlib
+numpy
+pillow
+pandas
+scikit-learn
+pathlib
+# Requirements for prediction script
+opencv-python
+tensorflow
+pillow
+numpy
